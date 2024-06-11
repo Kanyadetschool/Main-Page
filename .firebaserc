@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "main-page-6e864",
+    "deploy": "kanyadet-school"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
